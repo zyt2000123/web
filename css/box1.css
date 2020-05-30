@@ -1,0 +1,44 @@
+.box1{
+	background:rgba(28,3,108,1);
+	height: 422px;
+	position: relative;
+}
+.picture1{
+	text-align: center;
+	height: 420px;
+}
+.box1left{
+	height: 420px;
+}
+.box1nav{
+	float: left;
+	position: absolute;
+	left: 160px;
+	top: 0px;
+	width:190px;
+	height:420px;
+	background:rgba(0,0,0,0.3);
+	padding-left: 20px;
+}
+.box1first{
+	margin-top: 27px;
+}
+.box1nav li a{
+	width:101px;
+	height:365px;
+	font-size:14px;
+	font-weight:400;
+	color: #ffffff;
+	line-height:44px;
+} 
+.box1nav li a:hover{
+	color:rgba(0,180,255,1);
+}
+.box1nav li a span{
+	float: right;
+	margin-right: 18px;
+}
+.backgroundcolor{
+	background: #F3F5F7;
+}
+

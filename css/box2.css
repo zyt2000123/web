@@ -1,0 +1,35 @@
+.box2{
+	width: 1200px;
+	height: 60px;
+	margin: 0 auto;
+	margin-top: 8px;
+	box-shadow:0px 2px 3px 0px rgba(118,118,118,0.2);
+}
+.box2 li{
+	float: left;
+	height:18px;
+	font-size:16px;
+	font-weight:bold;
+	text-align: center;
+	margin:21px 0;
+	padding: 0 34px;
+	border-right: 1px solid gray;
+}
+.box2-right{
+	float: right;
+	padding: 21px 64px 18px 0;
+}
+.box2color1 a{
+	display: inline-block;
+	color:rgba(0,164,255,1);
+}
+.box2-left a{
+	display: inline-block;
+	color:#050505;
+}
+.box2-left a:hover{
+	color:rgba(0,164,255,1);
+}
+.box2 .last{
+	border:none;
+}
